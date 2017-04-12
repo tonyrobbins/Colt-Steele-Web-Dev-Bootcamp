@@ -1,0 +1,12 @@
+.selected {
+	color: green;
+}
+
+.clicked {
+	text-decoration: line-through;
+	color: gray;
+}
+
+ul {
+	font-size: 50px;
+}

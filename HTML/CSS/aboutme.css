@@ -1,0 +1,30 @@
+h1 {
+	color: blue;
+	border: 2px dashed green;
+}
+
+body {
+	background: pink;
+}
+
+ul {
+	font-size: 20px;
+	color: orange;
+}
+
+h4 {
+	color: #4590AF;
+}
+
+.practice {
+	border: 2px solid rgb(80,100,180)
+}
+
+#important {
+	font-size: 25px;
+	color: black;
+}
+
+div {
+	background: lightblue;
+}

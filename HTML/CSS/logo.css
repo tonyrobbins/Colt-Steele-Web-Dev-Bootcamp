@@ -1,0 +1,44 @@
+/* Colors */
+/* #E0DFDF */
+/* #4e9CB3*/
+/* #E493AB */
+/* #2B274B */
+/* #041838 */
+
+div {
+	font-size: 36px;
+	width: 190px;
+	height: 80px;
+	text-align: center;
+	line-height: 1.4;
+	vertical-align: center
+}
+
+/*.brace {
+	font-size: 105px;
+	color: #4e9CB3;
+}*/
+
+.container {
+	display: inline-block;
+}
+
+#codeTech {
+	display: block;
+	height: 50px;
+	color: #4e9CB3;
+	background-color: #041838;
+	font-family: 'Pacifico', cursive;
+	/*border-top-left-radius: 25px; 
+	border-top-right-radius: 25px;*/
+}
+
+#digital {
+	display: block;
+	height: 55px;
+	color: #041838;
+	background-color: #4e9CB3;
+	font-family: 'Roboto Mono', monospace;
+/*	border-bottom-left-radius: 5px; 
+	border-bottom-right-radius: 20px;*/
+}
